@@ -264,7 +264,8 @@ button {
 
 .about__img {
    width: 100%;
-   transition: transform .5s linear;
+   transition: transform .4s linear,
+   transition: box-shadow .5s linear;
 }
 
 .about__img:hover {
